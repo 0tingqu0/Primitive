@@ -1,0 +1,4 @@
+# Primitive - no build artifacts expected
+*.swp
+*~
+.DS_Store
